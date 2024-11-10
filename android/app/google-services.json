@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234286038537",
+    "project_id": "md3-av2",
+    "storage_bucket": "md3-av2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234286038537:android:3fd98035379dd03e50c2d8",
+        "android_client_info": {
+          "package_name": "com.example.avaliacaodm3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3VMDWbC6M4yANVEbLar339MNzWF_T4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
